@@ -1,0 +1,7 @@
+group 30
+This is a simplified MIPS simulator.
+It reads files and execute the instructions, simulating a MIPS machine.
+It takes 2 input files which are iimage and dimage and generates a snapshot.rpt and dump the error in error_dump.rpt.
+All input files should be placed to the current directory and all output files would be the same folder as well.
+
+Copyrighted by akuo.
